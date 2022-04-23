@@ -1,0 +1,29 @@
+body{
+    
+    
+}
+.formulaire{
+    border: 1px solid black;
+    font-size: 20px;
+    width: 400px;
+    height: 30px;
+
+
+}
+form{
+    
+    background-color: peru;
+    width: 410px;
+    height:auto ;
+    text-align: center;
+}
+.formula{
+    background-color: green;
+    color: black;
+
+   
+}
+p{
+    color: white;
+    text-align: center;
+}

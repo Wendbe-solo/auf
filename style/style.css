@@ -1,0 +1,54 @@
+body{
+    margin-left: 120px;
+    margin-right: 120px;
+    border: 1px solid black;
+}
+.nav-item{
+    margin-left: 60px !important;
+    font-size: 30px !important;
+    font-weight: 500 !important;
+    text-transform: capitalize;
+}
+.navbar{
+    background-color: yellow !important;
+}
+.ratio-4x3{
+    width: auto !important;
+    height: 150px !important;
+    text-align: center !important;
+    font-size: 60px;
+    text-transform: capitalize;
+    background-color: rgb(201, 236, 241);
+    margin-left: 50px;
+    margin-right: 50px;
+    margin-top: 30px;
+}
+h1{
+    margin-top: 40px;
+}
+.butv{
+    background-color: orange !important;
+    color: blue !important;
+}
+.butw{
+    background-color: white !important;
+    color: blue !important;
+}
+.p-md-4{
+    background-color: rgb(232, 232, 57) !important;
+    height: 300px !important;
+}
+.row{
+    margin-top: 30px;
+}
+.foot{
+    font-size: 20px !important;
+    color: white !important;
+}
+.footer1{
+    background-color: black;
+    color: white !important;
+}
+a{
+    text-decoration: none !important;
+}
