@@ -3,6 +3,9 @@ body{
     margin-right: 120px;
     border: 1px solid black;
 }
+.bien{
+    font-size: 40px;
+}
 .nav-item{
     margin-left: 60px !important;
     font-size: 30px !important;
@@ -10,7 +13,7 @@ body{
     text-transform: capitalize;
 }
 .navbar{
-    background-color: yellow !important;
+    background-color:8ac026  !important;
 }
 .ratio-4x3{
     width: auto !important;

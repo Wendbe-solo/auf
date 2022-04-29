@@ -18,7 +18,7 @@ if (isset($_POST["submit"])){
 
     if ($resultat){
         echo "enregistrement reçut";
-        header ("Location: ../index.html");
+        header ("Location: ./sucès.html");
         excit;
     }
     else {
