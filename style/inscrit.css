@@ -1,0 +1,53 @@
+body{
+    margin-left: 120px;
+    margin-right: 120px;
+    border: 1px solid black;
+}
+.bien{
+    font-size: 40px;
+}
+.active{
+    color: #a90932 !important;
+    font-size: 25px !important;
+}
+.navbar{
+    background-color: orange !important;
+    height: 130px !important;
+}
+.formulaire{
+    font-size: 20px;
+   background-color: red;
+    border-radius: 20px;
+    width: 400px;
+    height: 55px;
+
+}
+form{
+    
+    
+    width: 410px;
+    height:auto ;
+    text-align: center;}
+
+    .formula{
+        background-color: green;
+        color: black;
+        border-radius: 20px;
+        margin-right: 400px;
+        height: 50px;
+    }
+
+
+    .foot{
+        font-size: 20px !important;
+        color: white !important;
+    }
+    .footer1{
+        background-color: black;
+        color: white !important;
+    }
+    a{
+        text-decoration: none !important;
+    }
+        
+    
